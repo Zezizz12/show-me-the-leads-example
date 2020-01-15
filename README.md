@@ -1,4 +1,4 @@
-# Examplo de formulário para captura de Leads do assignment Show me the Leads
+# Exemplo de formulário para captura de Leads do assignment Show me the Leads
 
 ## Resumo
 
